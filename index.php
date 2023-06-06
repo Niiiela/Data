@@ -5,4 +5,7 @@
 
 //adicionado a hora
     echo 'Agora são: ' .date('H:i:s');
+
+//Mostrar a data com apenas dois digito do Ano.
+    echo "<br><br>Hojé é dia " .date('d/m/y');
 ?>
