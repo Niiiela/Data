@@ -15,4 +15,6 @@
 
 //Mostra o dia da Semana
     echo date("l");
+
+
 ?>
