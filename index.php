@@ -8,4 +8,11 @@
 
 //Mostrar a data com apenas dois digito do Ano.
     echo "<br><br>Hojé é dia " .date('d/m/y');
+
+//Mostrar a hora com PM
+  echo "<br><br>" .date('g:i:s  A ');
+
+
+//Mostra o dia da Semana
+    echo date("l");
 ?>
